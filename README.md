@@ -34,7 +34,7 @@ node server.js
   
 ## Usage
 Use Insomnia to test Get, Post, Put, and Delete routes for Products, Categories, and Tags. The following video demonstrates the application's functionality.
-[Walkthrough Video]()
+[Walkthrough Video](https://www.loom.com/share/be79c2bddb004d99b4b41db5bd2923ae?sid=51366408-c247-4c23-9114-43adb36167e9)
   
 ## Contributing
 To contribute more, please contact me.
